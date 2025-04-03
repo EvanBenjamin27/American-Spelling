@@ -43,4 +43,4 @@ This Chrome extension corrects common British English spellings to American Engl
 ## Troubleshooting
 
 * If the extension doesn't seem to be working, try reloading the webpage.
-* If you see any error messages on the Extensions page, please report them to the extension's developer.
+* If you see any error messages on the Extensions page, please report them as an issue.
