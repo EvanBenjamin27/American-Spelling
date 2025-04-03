@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "English Spelling Corrector",
-  "version": "1.0",
+  "name": "American Spelling",
+  "version": "1.3",
   "description": "Corrects common British to American English spellings.",
   "content_scripts": [
     {
